@@ -12,8 +12,7 @@ This project focuses on exploratory data analysis (EDA) and text classification 
 6. [Requirements](#requirements)
 7. [How to Run](#how-to-run)
 8. [Results](#results)
-9. [Contributors](#contributors)
-10. [License](#license)
+9. [License](#license)
 
 ## Dataset
 
